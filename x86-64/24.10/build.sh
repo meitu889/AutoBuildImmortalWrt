@@ -24,7 +24,8 @@ PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
 PACKAGES="$PACKAGES openssh-sftp-server"
 PACKAGES="$PACKAGES luci-i18n-dockerman-zh-cn"
 #20250101增加的24.10的软件,切记不要带版本号和_all。
-PACKAGES="$PACKAGES luci-i18n-zerotier-zh-cn"
+PACKAGES="$PACKAGES luci-app-zerotier.ipk"
+PACKAGES="$PACKAGES luci-i18n-zerotier-zh-cn.ipk"
 
 
 # 构建镜像

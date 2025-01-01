@@ -30,6 +30,7 @@ PACKAGES="$PACKAGES luci-i18n-zerotier-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-samba4-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-upnp-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-appfilter-zh-cn"
+PACKAGES="$PACKAGES luci-i18n-appfilter"
 
 
 # 构建镜像

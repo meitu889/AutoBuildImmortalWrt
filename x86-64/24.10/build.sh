@@ -28,14 +28,7 @@ PACKAGES="$PACKAGES luci-app-netdata_all.ipk"
 PACKAGES="$PACKAGES luci-i18n-netdata-zh-cn_all.ipk"
 PACKAGES="$PACKAGES luci-app-mwan3_all.ipk"
 PACKAGES="$PACKAGES luci-i18n-mwan3-zh-cn_all.ipk"
-PACKAGES="$PACKAGES luci-app-zerotier_24.362.20051~34c1f40_all.ipk"
-PACKAGES="$PACKAGES luci-i18n-zerotier-zh-cn_24.362.20051~34c1f40_all.ipk"
-PACKAGES="$PACKAGES luci-app-samba4_24.362.20051~34c1f40_all.ipk"
-PACKAGES="$PACKAGES luci-i18n-samba4-zh-cn_24.362.20051~34c1f40_all.ipk"
-PACKAGES="$PACKAGES luci-app-upnp_24.362.20051~34c1f40_all.ipk"
-PACKAGES="$PACKAGES luci-i18n-upnp-zh-cn_24.362.20051~34c1f40_all.ipk"
-PACKAGES="$PACKAGES luci-app-appfilter_5.0.2-r1_all.ipk"
-PACKAGES="$PACKAGES luci-i18n-appfilter-zh-cn_24.362.20051~34c1f40_all.ipk"
+
 
 # 构建镜像
 echo "$(date '+%Y-%m-%d %H:%M:%S') - Building image with the following packages:"

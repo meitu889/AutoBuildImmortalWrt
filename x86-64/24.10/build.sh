@@ -23,9 +23,7 @@ PACKAGES="$PACKAGES luci-app-openclash"
 PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
 PACKAGES="$PACKAGES openssh-sftp-server"
 PACKAGES="$PACKAGES luci-i18n-dockerman-zh-cn"
-#20250101增加的24.10的软件
-PACKAGES="$PACKAGES luci-app-netdata_1.0-r1_all.ipk"
-PACKAGES="$PACKAGES luci-i18n-netdata-zh-cn_24.362.20051~34c1f40_all.ipk"
+#20250101增加的24.10的软件,netdata不要装，编译不成功。
 PACKAGES="$PACKAGES luci-app-mwan3_24.362.20051~34c1f40_all.ipk"
 PACKAGES="$PACKAGES luci-i18n-mwan3-zh-cn_24.362.20051~34c1f40_all.ipk"
 PACKAGES="$PACKAGES luci-app-zerotier_24.362.20051~34c1f40_all.ipk"
